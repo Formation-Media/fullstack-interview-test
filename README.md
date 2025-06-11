@@ -6,7 +6,7 @@ Once it has been imported you are to create 2 pages:
 
 The first page should display the nested menu (Bonus points for styling)
 
-The second page should allow for editing the menu, you'll need to include the following features:
+The second page should allow for editing the menu, you'll need to include the following features: <br/>
 - Renaming the menu items<br/>
 - Changing where in the tree an item is <br/>
 - Deleting a menu item<br/>
