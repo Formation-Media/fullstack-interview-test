@@ -2,7 +2,7 @@
 
 ## Overview
 You are tasked with building an application that consumes a nested menu JSON from the following URL:
-https://formation-media.github.io/fullstack-interview-test/menu.json
+[https://formation-media.github.io/fullstack-interview-test/menu.json](https://formation-media.github.io/fullstack-interview-test/menu.json)
 
 The app should have two pages with navigation between the pages:
 
@@ -14,7 +14,7 @@ The app should have two pages with navigation between the pages:
 - Allow renaming any menu item
 - Allow moving a menu item to a different place in the tree
 - Allow deleting any menu item
-- Changes should persist in a non-volatile storage (local file, database, etc.)
+- Changes should persist in a non-volatile serverside storage (eg a database)
 
 ## Requirements
 - You must fetch the JSON data dynamically from the provided URL (do not hardcode the menu JSON)
@@ -34,10 +34,8 @@ The app should have two pages with navigation between the pages:
 As part of your submission, please include a comprehensive README file that covers the following:
 
 - Project overview: A brief description of your solution and approach
-- Setup instructions: How to install dependencies, build, and run the application locally  
-- Usage: How to use the app, including navigation between pages and features
+- Setup instructions: How to install dependencies, build, and run the application locally if applicable
 - Backend (if implemented): How the backend is structured and how to run it
-- Containerization (if implemented): How to build and run the Docker container(s)
 - Bonus features: Highlight any extra work you did beyond the base requirements
 
 A clear, well-structured README and comments in the code will help us understand your thought process and makes it easy for us to test your solution.
