@@ -20,9 +20,6 @@ The app should have two pages with navigation between the pages:
 - You must fetch the JSON data dynamically from the provided URL (do not hardcode the menu JSON)
 - Use any modern JavaScript frontend framework such as React, Next.js, Svelte, Vue, Angular, or Remix
 
-### Backend (optional, extra credit):
-- Implement a backend with SQLite or any lightweight DB to persist the menu and handle edits
-
 ### Containerization (recommended):
 - Provide a Docker container setup to build and run your app (frontend, backend, or both)
 - Include a Dockerfile
