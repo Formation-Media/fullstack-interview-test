@@ -14,7 +14,7 @@ The app should have two pages with navigation between the pages:
 - Allow renaming any menu item
 - Allow moving a menu item to a different place in the tree
 - Allow deleting any menu item
-- Changes should persist in a non-volatile serverside storage (eg a database)
+- Changes should persist in a non-volatile storage (eg a database)
 
 ## Requirements
 - You must fetch the JSON data dynamically from the provided URL (do not hardcode the menu JSON)
